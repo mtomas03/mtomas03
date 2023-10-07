@@ -1,6 +1,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vMxster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+[![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=1)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🔭 I’m currently working on Quantitative Trading System<br>👯 I’m looking to collaborate on Academic Research <br>🌱 I’m currently learning Java and C#<br>💬 Ask me about Trading and Investment
@@ -24,5 +25,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
