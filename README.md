@@ -24,4 +24,3 @@
 ![](https://github-contributor-stats.vercel.app/api?username=vMxster&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=1)](https://visitcount.itsvg.in)
