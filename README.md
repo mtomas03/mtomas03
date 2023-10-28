@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=11)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on Quantitative Trading System<br>👯 I’m looking to collaborate on Academic Research<br>🌱 I’m currently learning Java, C#, HTML, CSS<br>💬 Ask me about Trading Algos
+🔭 I’m currently working on Quantitative Trading System<br>👯 I’m looking to collaborate on Academic Research<br>🌱 I’m currently learning Java, C# <br>💬 Ask me about Trading Algos
 
 
 ## 🌐 Socials:
