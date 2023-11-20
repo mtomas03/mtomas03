@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=4)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=vMxster&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vMxster&theme=matrix&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <codersrank-summary username="YOUR_USERNAME"></codersrank-summary>
 
