@@ -6,9 +6,7 @@
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=vMxster&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
 
-![codersrank stats](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=vMxster) 
-  
- ![codersrank stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=vMxster)
+<codersrank-summary username="YOUR_USERNAME"></codersrank-summary>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mtomas03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/mtomas03) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/mtomas03_) 
