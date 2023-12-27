@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Quantitative Trading System<br>🌱 I’m currently learning Java, C#<br>💬 Ask me about Trading Algos
+🔭 I’m currently working on Quantitative Trading System<br>🌱 I’m currently learning -<br>💬 Ask me about Trading Algos
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=4)](https://visitcount.itsvg.in)
 
