@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Databases, Network, Numerical Methods and Physics
+🌱 I’m currently learning Relational Databases
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=4)](https://visitcount.itsvg.in)
 
