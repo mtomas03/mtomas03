@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI Localization<br>💼 I am working for FOM Software Technology<br>🌱 I’m currently learning Web development, Software Engineering, Telecommunication Networks, Operations Research
+🌱 I’m currently learning Web development, Software Engineering, Telecommunication Networks, Operations Research
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
 
