@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web development, Software Engineering, Operations Research
+🌱 I’m currently learning Web development and Operations Research
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
 
