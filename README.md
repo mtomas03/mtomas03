@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web development and Operations Research
+🌱 I’m currently learning Web development, Operations Research, Data Intensive Application Programming, Mobile Systems Programming and Cryptography
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
 
