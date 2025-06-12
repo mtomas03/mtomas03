@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web development, Data Intensive Application Programming, Mobile Systems Programming and Cryptography
+🌱 I’m currently learning Web development, Data Intensive Application Programming and Mobile Systems Programming
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
 
