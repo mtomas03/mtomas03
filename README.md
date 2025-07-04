@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Data Intensive Application Programming and Mobile Systems Programming
+🌱 I’m currently learning Data Intensive Application Programming
 
 [![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
 
