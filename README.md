@@ -1,8 +1,6 @@
 # 💫 About Me:
 🌱 I'm currently writing my Thesis on Kolmogorov-Arnold Networks
 
-[![](https://visitcount.itsvg.in/api?id=vMxster&icon=0&color=13)](https://visitcount.itsvg.in)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vMxster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
