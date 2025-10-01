@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I'm currently writing my Thesis on Kolmogorov-Arnold Networks
+🌱 I’m currently learning Machine Learning; Languages, Compilers, and Computational Models; Information Systems; Distributed Systems
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vMxster&theme=radical&no-frame=false&no-bg=true&margin-w=4)
