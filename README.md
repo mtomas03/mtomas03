@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Machine Learning; Languages, Compilers, and Computational Models; Information Systems; Distributed Systems
+🌱 I’m currently learning Languages, Compilers, and Computational Models; Information Systems; Distributed Systems
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mtomas03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
