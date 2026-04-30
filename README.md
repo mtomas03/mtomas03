@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Information Systems; Distributed Systems
+🌱 I’m currently learning Information Systems; Distributed Systems; Cybersecurity; Concurrent and Distributed Programming; Programming and Development Paradigms
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mtomas03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
